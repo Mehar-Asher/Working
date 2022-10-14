@@ -1,0 +1,3 @@
+Im using Vim and some of its code for practice 
+lets see what we got here
+codes basically working and some of them work as a comination of two
